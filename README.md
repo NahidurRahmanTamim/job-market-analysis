@@ -23,8 +23,8 @@
 - See the interactive dashboard via this live link: [https://tinyurl.com/job-market-analysis](https://tinyurl.com/job-market-analysis). 🌐
 
 ## Screenshot 📷
-- ![Dashboard View](screenshots/screenshot1.png) 🎨
-- ![Map Distribution](screenshots/screenshot2.png) 🗺️
+- ![Dashboard View](screenshots/Screenshot1.png) 🎨
+- ![Map Distribution](screenshots/Screenshot2.png) 🗺️
 
 ## Conclusion ✅
 - Showcases Power BI’s ability to transform complex data into insights. 🌟
