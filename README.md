@@ -28,7 +28,6 @@
 
 ## Conclusion ✅
 - Showcases Power BI’s ability to transform complex data into insights. 🌟
-- Reveals a 15% increase in demand for data science skills in 2025. 📊
-- Highlights a 10% salary growth in tech hubs as of August 28, 2025. 💰
-- Identifies Southeast Asia as an emerging job market region. 🌏
+- Software Engineer, Data Analyst, and Data Scientist are the top in-demand roles, with a high number of applicants competing for limited positions.
+- sql is top most prioritised job skill
 - Open to continuous improvements with user feedback or new data. 🔄
