@@ -20,7 +20,7 @@
 
 ## Preview 👀
 - `.pbix` file [Job_Market_Analysis.pbix](Job_Market_Analysis.pbix) available for download. 📥
-- See the interactive dashboard via this live link: [https://tinyurl.com/job-market-analysis](https://tinyurl.com/job-market-analysis). 🌐
+
 
 ## Screenshot 📷
 - ![Dashboard View](screenshots/Screenshot1.png) 🎨
